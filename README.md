@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
 <p align="center">
