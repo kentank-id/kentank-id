@@ -29,15 +29,15 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 # Github Stat
 
 <p align="center">
-  <a href="https://github.com/PLWEP">
+  <a href="https://github.com/kentank-id">
     <img src="https://github-readme-stats.vercel.app/api?username=kentank-id&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentank-id&theme=github-dark-blue&hide_border=true" width="45%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PLWEP">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PLWEP&theme=react-dark"/>
+  <a href="https://github.com/kentank-id">
+    <img src="https://activity-graph.herokuapp.com/graph?username=kentank-id&theme=react-dark"/>
   </a>
 </p>
 
