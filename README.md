@@ -1,4 +1,8 @@
 
+<a align="center" href="https://github.com/kentank-id">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kentank-id&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple" />
+</a>
+
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/widho-faisal-611130170/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
