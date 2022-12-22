@@ -39,12 +39,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentank-id&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/kentank-id)
 
-<p align="center">
-  <a href="https://github.com/kentank-id">
-    <img src="https://avatars.githubusercontent.com/u/74389674?v=4" width="500px" height="auto"/>
-  </a>
-</p>
-
 ---
 
 <br />
@@ -53,7 +47,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-
+<p align="center">
+  <a href="https://github.com/kentank-id">
+    <img src="https://avatars.githubusercontent.com/u/74389674?v=4" width="100px" height="100px"/>
+  </a>
+</p>
 
 <!--
 **kentank-id/kentank-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
