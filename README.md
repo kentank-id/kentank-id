@@ -1,7 +1,5 @@
 
-<a align="center" href="https://github.com/kentank-id">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kentank-id&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple" />
-</a>
+
 
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
 <p align="center">
@@ -41,7 +39,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p align="center">
   <a href="https://github.com/kentank-id">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kentank-id&theme=react-dark"/>
+    <img src="https://avatars.githubusercontent.com/u/74389674?v=4"/>
   </a>
 </p>
 
@@ -50,6 +48,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <br />
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 <br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentank-id&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/kentank-id)
+
 <!--
 **kentank-id/kentank-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
