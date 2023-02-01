@@ -8,7 +8,7 @@
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - 🔭 I’m working as a Software Engineer and contributing to backend for building web and desktop applications.
-- ⚡ In my free time I solve problems on Hackerrank and read tech articles.
+- ⚡ In my free time I solve problems on HackerRank and read tech articles.
 
 ---
 
